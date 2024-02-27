@@ -38,9 +38,11 @@ print(response.text)
 
 ```
 
+### Choose from 2 Unlimited Bandwidth Proxy options
+
 [![Oxylabs promo code](https://github.com/oxylabs/Residential-Datacenter-Proxies/assets/103110131/9e2d2daa-d49a-4ca6-9e31-eba326463928)](https://oxylabs.io/location-proxy)
 
-### Choose from 2 Unlimited Bandwidth Proxy options
+
 
 #### Static Residential Proxies
 
