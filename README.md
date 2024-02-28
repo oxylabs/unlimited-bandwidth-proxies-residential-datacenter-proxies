@@ -58,3 +58,8 @@ Cost-effective proxy solution with high performance and focus on speed for large
 - 2M+ Dedicated Datacenter IPs pool
 - Quick start with the Self-Service plan
 - Unlimited bandwidth
+
+- ## Contacts
+Email - hello@oxylabs.io
+<br><a href="https://oxylabs.drift.click/oxybot">Live chat</a>
+
