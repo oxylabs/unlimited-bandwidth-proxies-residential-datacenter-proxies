@@ -2,7 +2,7 @@
 
 [![Oxylabs promo code](https://github.com/oxylabs/proxy-integrations/assets/103110131/afc4dc1e-f7c8-4b3d-a729-6cd0d8563980)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=unlimited-bandwidth-proxies-residential-datacenter-proxies-github&transaction_id=102f49063ab94276ae8f116d224b67)
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
 
 Our proxies with unlimited bandwidth seamlessly integrate with third-party software. Explore our documentation for step-by-step tutorials to ensure a smooth setup process.
